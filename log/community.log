@@ -202,3 +202,30 @@
 2019-09-09 20:20:13.525  INFO 8336 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
 2019-09-09 20:20:14.865  INFO 8336 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 6.899 seconds (JVM running for 8.02)
 2019-09-09 20:20:15.666  INFO 8336 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 21:27:51.717  INFO 12276 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 12276 (started by Misser in C:\ideaProject\community)
+2019-09-09 21:27:51.720  INFO 12276 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-09 21:27:52.008  WARN 12276 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-09 21:27:54.393  INFO 12276 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 21:27:54.533  INFO 12276 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-09 21:27:55.069  INFO 12276 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 3.788 seconds (JVM running for 4.86)
+2019-09-09 21:27:55.595  INFO 12276 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 21:30:28.554  INFO 16232 --- [main] c.c.t.community.CommunityApplication     : Starting CommunityApplication v0.0.1-SNAPSHOT on LAPTOP-D5N15IMA with PID 16232 (C:\ideaProject\community\target\community-0.0.1-SNAPSHOT.jar started by Misser in C:\ideaProject\community)
+2019-09-09 21:30:28.557  INFO 16232 --- [main] c.c.t.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-09 21:30:28.751  WARN 16232 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-09 21:30:30.393  INFO 16232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-09 21:30:30.431  INFO 16232 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-09 21:30:30.432  INFO 16232 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-09 21:30:30.529  INFO 16232 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-09 21:30:30.529  INFO 16232 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1917 ms
+2019-09-09 21:30:31.117  INFO 16232 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 21:30:31.213  INFO 16232 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-09 21:30:31.554  INFO 16232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-09 21:30:31.561  INFO 16232 --- [main] c.c.t.community.CommunityApplication     : Started CommunityApplication in 3.606 seconds (JVM running for 4.043)
+2019-09-09 21:30:42.921  INFO 16232 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 21:30:42.922  INFO 16232 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-09 21:30:42.935  INFO 16232 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-09-09 21:30:43.000  INFO 16232 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-09 21:30:43.252  INFO 16232 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-09 21:31:43.030  INFO 16232 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 21:31:43.032  INFO 16232 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-09-09 21:31:43.046  INFO 16232 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
