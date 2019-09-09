@@ -4,22 +4,17 @@ package com.cugb.talkhub.community.controller;
 import com.cugb.talkhub.community.Service.UserService;
 import com.cugb.talkhub.community.dto.AccessTokenDTO;
 import com.cugb.talkhub.community.dto.GitHubUser;
-import com.cugb.talkhub.community.mapper.UserMapper;
 import com.cugb.talkhub.community.model.User;
 import com.cugb.talkhub.community.provider.GithubProvider;
-import org.apache.ibatis.annotations.Insert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-
 import javax.servlet.http.Cookie;
-import javax.servlet.http.HttpServletMapping;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.net.http.HttpResponse;
+
 import java.util.UUID;
 
 @Controller
