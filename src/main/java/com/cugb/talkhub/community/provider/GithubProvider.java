@@ -3,7 +3,6 @@ package com.cugb.talkhub.community.provider;
 import com.alibaba.fastjson.JSON;
 import com.cugb.talkhub.community.dto.AccessTokenDTO;
 import com.cugb.talkhub.community.dto.GitHubUser;
-import com.fasterxml.jackson.databind.JsonNode;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 
