@@ -16,6 +16,11 @@ public class TagCache {
         program.setTags(Arrays.asList("javascript", "php", "css", "html", "html5", "java", "node.js", "python", "c++", "c", "golang", "objective-c", "typescript", "shell", "swift", "c#", "sass", "ruby", "bash", "less", "asp.net", "lua", "scala", "coffeescript", "actionscript", "rust", "erlang", "perl"));
         tagDTOS.add(program);
 
+        TagDTO Type = new TagDTO();
+        Type.setCategoryName("算法");
+        Type.setTags(Arrays.asList("DFS", "BFS", "DP", "数组", "动态规划", "贪心", "分治", "回溯", "字符串", "树", "队列"));
+        tagDTOS.add(Type);
+
         TagDTO framework = new TagDTO();
         framework.setCategoryName("平台框架");
         framework.setTags(Arrays.asList("laravel", "spring", "express", "django", "flask", "yii", "ruby-on-rails", "tornado", "koa", "struts"));

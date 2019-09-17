@@ -133,3 +133,122 @@
 2019-09-11 11:32:39.358  INFO 11196 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
 2019-09-11 11:32:40.394  INFO 11196 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 6.362 seconds (JVM running for 8.555)
 2019-09-11 11:32:41.331  INFO 11196 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:49:23.565  INFO 13288 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 13288 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:49:23.566  INFO 13288 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:49:23.958  WARN 13288 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:49:27.757  INFO 13288 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:49:28.145  INFO 13288 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:49:29.216  INFO 13288 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 6.047 seconds (JVM running for 7.136)
+2019-09-11 12:49:30.394  INFO 13288 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:49:45.064  INFO 6084 --- [main] c.c.t.community.CommunityApplication     : Starting CommunityApplication on LAPTOP-D5N15IMA with PID 6084 (C:\ideaProject\community\target\classes started by Misser in C:\ideaProject\community)
+2019-09-11 12:49:45.065  INFO 6084 --- [main] c.c.t.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 12:49:45.194  WARN 6084 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:49:46.261  INFO 6084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2019-09-11 12:49:46.284  INFO 6084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 12:49:46.284  INFO 6084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-11 12:49:46.408  INFO 6084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 12:49:46.409  INFO 6084 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1311 ms
+2019-09-11 12:49:46.812  INFO 6084 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:49:46.866  INFO 6084 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:49:47.078  INFO 6084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2019-09-11 12:49:47.082  INFO 6084 --- [main] c.c.t.community.CommunityApplication     : Started CommunityApplication in 2.37 seconds (JVM running for 3.654)
+2019-09-11 12:49:52.632  INFO 6084 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 12:49:52.634  INFO 6084 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 12:49:52.653  INFO 6084 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2019-09-11 12:49:52.728  INFO 6084 --- [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-11 12:49:53.022  INFO 6084 --- [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-11 12:49:58.450  INFO 3440 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 3440 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:49:58.452  INFO 3440 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:49:58.880  WARN 3440 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:50:02.150  INFO 3440 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:50:02.355  INFO 3440 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:50:03.196  INFO 3440 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 5.178 seconds (JVM running for 6.129)
+2019-09-11 12:50:03.925  INFO 3440 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:50:44.206  INFO 18652 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 18652 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:50:44.209  INFO 18652 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:50:44.656  WARN 18652 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:50:47.211  INFO 18652 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:50:47.386  INFO 18652 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:50:48.137  INFO 18652 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 4.414 seconds (JVM running for 5.421)
+2019-09-11 12:50:48.967  INFO 18652 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:01.790  INFO 20312 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 20312 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:51:01.793  INFO 20312 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:51:02.292  WARN 20312 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:51:05.257  INFO 20312 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:05.465  INFO 20312 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:51:06.394  INFO 20312 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 5.145 seconds (JVM running for 6.049)
+2019-09-11 12:51:07.266  INFO 20312 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:26.099  INFO 19896 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 19896 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:51:26.101  INFO 19896 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:51:26.526  WARN 19896 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:51:31.036  INFO 19896 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:31.233  INFO 19896 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:51:32.023  INFO 19896 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 6.452 seconds (JVM running for 7.8)
+2019-09-11 12:51:32.793  INFO 19896 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:38.771  INFO 19800 --- [main] c.c.t.community.CommunityApplication     : Starting CommunityApplication on LAPTOP-D5N15IMA with PID 19800 (C:\ideaProject\community\target\classes started by Misser in C:\ideaProject\community)
+2019-09-11 12:51:38.773  INFO 19800 --- [main] c.c.t.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 12:51:38.914  WARN 19800 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:51:39.771  INFO 19800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2019-09-11 12:51:39.794  INFO 19800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 12:51:39.795  INFO 19800 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-11 12:51:39.918  INFO 19800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 12:51:39.918  INFO 19800 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1108 ms
+2019-09-11 12:51:40.316  INFO 19800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:40.377  INFO 19800 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:51:40.657  INFO 19800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2019-09-11 12:51:40.665  INFO 19800 --- [main] c.c.t.community.CommunityApplication     : Started CommunityApplication in 2.257 seconds (JVM running for 3.276)
+2019-09-11 12:51:45.034  INFO 19800 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 12:51:45.035  INFO 19800 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 12:51:45.050  INFO 19800 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2019-09-11 12:51:45.130  INFO 19800 --- [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-11 12:51:45.343  INFO 19800 --- [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-11 12:51:52.393  INFO 3800 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 3800 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:51:52.395  INFO 3800 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:51:52.801  WARN 3800 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:51:55.816  INFO 3800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:56.007  INFO 3800 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:51:56.804  INFO 3800 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 4.857 seconds (JVM running for 5.767)
+2019-09-11 12:51:57.390  INFO 3800 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:51:58.911  WARN 19800 --- [http-nio-8088-exec-4] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [257] milliseconds.
+2019-09-11 12:52:16.948  INFO 14900 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 14900 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:52:16.951  INFO 14900 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:52:17.399  WARN 14900 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:52:20.984  INFO 14900 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:52:21.232  INFO 14900 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:52:22.246  INFO 14900 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 5.783 seconds (JVM running for 6.727)
+2019-09-11 12:52:22.977  INFO 14900 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:09.706  INFO 20112 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 20112 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:55:09.709  INFO 20112 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:55:10.916  WARN 20112 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:55:16.923  INFO 5176 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 5176 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:55:16.932  INFO 5176 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:55:17.175  INFO 19932 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 19932 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:55:17.197  INFO 19932 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:55:18.453  WARN 19932 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:55:18.807  WARN 5176 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:55:19.953  INFO 18248 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 18248 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:55:20.055  INFO 18248 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:55:20.486  INFO 20112 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:21.416  INFO 20112 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:55:23.368  WARN 18248 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:55:24.624  INFO 20112 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 16.944 seconds (JVM running for 20.091)
+2019-09-11 12:55:27.439  INFO 20112 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:27.915  INFO 19932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:28.388  INFO 19932 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:55:29.661  INFO 5176 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:31.819  INFO 19932 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 16.306 seconds (JVM running for 21.795)
+2019-09-11 12:55:32.192  INFO 5176 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:55:32.705  INFO 18248 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:33.758  INFO 18248 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:55:35.554  INFO 19932 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:35.933  INFO 18248 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 18.467 seconds (JVM running for 24.205)
+2019-09-11 12:55:36.411  INFO 5176 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 21.313 seconds (JVM running for 26.653)
+2019-09-11 12:55:36.701  INFO 20224 --- [main] c.c.t.c.CommunityApplicationTests        : Starting CommunityApplicationTests on LAPTOP-D5N15IMA with PID 20224 (started by Misser in C:\ideaProject\community)
+2019-09-11 12:55:36.722  INFO 20224 --- [main] c.c.t.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2019-09-11 12:55:37.412  INFO 5176 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:37.521  INFO 18248 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:37.680  WARN 20224 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2019-09-11 12:55:44.006  INFO 20224 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 12:55:44.342  INFO 20224 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 12:55:45.645  INFO 20224 --- [main] c.c.t.c.CommunityApplicationTests        : Started CommunityApplicationTests in 10.8 seconds (JVM running for 18.504)
+2019-09-11 12:55:46.871  INFO 20224 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
